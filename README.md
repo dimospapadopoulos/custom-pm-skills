@@ -225,25 +225,6 @@ Upload skills to Claude Projects via web interface or API.
 - Automation doesn't replace thinking / it gave me more time to think through systems/architecture.
 - Junior PMs learn by seeing examples, not just reading docs. Gone are the days I searched on Google and libraries to complete my thesis: "Electrical Treeing as a Result of Mechanical Stresses" in 2017.
 
-## Roadmap
-
-### V1.1 (Next 30 Days)
-- [ ] Add metric calculation examples
-- [ ] Include PRD templates by product type (feature, API, infrastructure)
-- [ ] Enhance market-specific compliance rules
-
-### V2.0 (Q2 2026)
-- [ ] Slack bot integration (`/generate-prd`, `/create-roadmap`, `/status-update`)
-- [ ] Google Docs import/export
-- [ ] Version control and change tracking
-- [ ] Team collaboration features
-
-### V3.0 (Q3 2026)
-- [ ] AI-powered PRD review and suggestions
-- [ ] Automated roadmap optimization
-- [ ] Predictive analytics (estimate completion times)
-- [ ] Integration with project management tools (Jira, Linear)
-
 ## Contributing
 
 This is a personal productivity library, but if you want to adapt these skills for your org:
